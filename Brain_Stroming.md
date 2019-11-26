@@ -84,3 +84,5 @@ pprint(statsapi.schedule(team=133,start_date='01/01/2019',end_date='12/31/2019')
   
   
   https://baseball-in-play.com/90
+
+https://developers-doc.nugu.co.kr/nugu-play/create-plays-with-play-builder/use-backend-proxy/backend-proxy-api-reference
