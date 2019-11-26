@@ -81,6 +81,3 @@ pprint(statsapi.schedule(team=133,start_date='01/01/2019',end_date='12/31/2019')
   'primaryNumber': '99',
   'primaryPosition': {'abbreviation': 'P', 'code': '1'},
   'useName': 'Hyun-Jin'}]
-
-
-https://docs.google.com/document/d/15fD1O6ytgR05L7v0XvuEuG8i4prwffM9MdzD8wsKczY/edit
