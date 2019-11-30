@@ -35,22 +35,22 @@
 {ERA}랑 {ERA+}랑 다른게 뭐야?
 
 
-팀간 전적 (팀 vs 팀 승률) (https://sportsdata.io/developers/api-documentation/mlb#/team-stats)
-  i. 	{~팀} 의 승률 알려줘
- ii. 	{~팀} 전적 알려줘  
-iii. 	{~팀} 승률
-iiii. 	{~팀} 전적
-v. 	{~팀}과 {~팀} 
+### 팀간 전적 (팀 vs 팀 승률) (https://sportsdata.io/developers/api-documentation/mlb#/team-stats) <br>
+  i. 	{~팀} 의 승률 알려줘 <br>
+ ii. 	{~팀} 전적 알려줘  <br>
+iii. 	{~팀} 승률 <br>
+iiii. 	{~팀} 전적 <br>
+v. 	{~팀}과 {~팀} <br>
 
-경기장별 승률 (park factor) : 
+### 경기장별 승률 (park factor) : 
 {어느 구장}이 제일 {투수 친화적}이야?
 
 
-롤
+## 롤
 팀정리 
 ㅇㅇㅇ
 ㅇㅇㅇ
-축구
+## 축구
 
 “””
 <START>
@@ -103,7 +103,7 @@ parameters : {player}, {team}
 
 
 
-선수
+### 선수
 야구 결과 / 야구 경기 / 야구 시합결과 / 시합 결과
 결과 알려줘 / 알고 싶어 /  알려줄래 / 어떻게 됐어 / 이겼어? / 어떻게 끝났는지 말해줄래 / 어떻게 됐는지 확인 부탁해
 
@@ -186,7 +186,7 @@ parameters : {player}, {team}
 언제인지 알아?
 
 
-지수&영훈 (선수 스탯)
+### 지수&영훈 (선수 스탯)
 parameters : {player}, {stat}
 예상발화: {player} {stat} 알려줘
 {player} : [추신수, 류현진, 정호, 승환, 최지만(지만)]
