@@ -197,7 +197,7 @@ parameters : {player}, {stat}
 
 
 
-{  추신수(타자, hitting) 강정호, 최지만
+>>> {  추신수(타자, hitting) 강정호, 최지만
     "gamesPlayed": 1619,  	출장횟수
     "groundOuts": 1737,	땅볼아웃
     "airOuts": 1188,		플라이아웃
@@ -232,7 +232,7 @@ parameters : {player}, {stat}
 }
 
 
-{ 투수 류현진, 오승환
+>>> { 투수 류현진, 오승환
    "gamesPlayed": 29,		경기수, 출장수
     "gamesStarted": 29,	선발 수
     "groundOuts": 231,	땅볼 아웃
