@@ -3,7 +3,7 @@
 
 
 ## MLB
-게임
+### 게임
 지금 MLB 게임 하고 있는거 있어?
 이번 시즌 언제 시작해
 이번 시즌 언제 끝나?
@@ -14,21 +14,21 @@
 {류현진} ERA 알려줘
 {류현진} {삼진} 몇개 잡았어?
 
-경기 일정(팀별, 선수별) (https://api.sportsdata.io/v3/mlb/scores/json/Games/{season})
-e-1. 팀
+### 경기 일정(팀별, 선수별) (https://api.sportsdata.io/v3/mlb/scores/json/Games/{season})
+#### e-1. 팀
 {텍사스 레인저스} 팀 지난 경기 일정 알려줘
 {텍사스 레인저스} 팀 앞으로 경기 일정 알려줘
 
-e-2. 선수
+#### e-2. 선수
 {류현진} 선수 지난 경기 일정 알려줘
 {류현진} 선수 앞으로 경기 일정 알려줘
 {류현진} 선수 오늘 경기 일정 알려줘
 
-선수 vs 선수 승률 (https://api.sportsdata.io/v3/mlb/stats/json/HitterVsPitcher/{hitterid}/{pitcherid})
+### 선수 vs 선수 승률 (https://api.sportsdata.io/v3/mlb/stats/json/HitterVsPitcher/{hitterid}/{pitcherid})
 {류현진}이랑 {추신수} 역대 {대결 전적} 알려줘
 {최지만}이 {게릿 콜}한테 {안타 칠 확률}이 몇이야?
 
-용어설명 (terminology) : 하민
+### 용어설명 (terminology) : 하민
 (http://m.mlb.com/glossary)
 {WHIP} 이 뭐야?
 {BABIP}이 뭐야?
@@ -85,7 +85,7 @@ pprint(statsapi.schedule(team=133,start_date='01/01/2019',end_date='12/31/2019')
   'primaryPosition': {'abbreviation': 'P', 'code': '1'},
   'useName': 'Hyun-Jin'}]
 
-★여기서부터 예상발화★
+## ★여기서부터 예상발화★
 서술어, 어미, entity 조합, 어순 및 문장구조
 
 경기일정 (팀별, 선수별)
