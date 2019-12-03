@@ -54,11 +54,8 @@
       "ask_Pinch_Runner": [
         "대주자가 뭐야?"
       ],
-      "player-stats": [
-        "[PLAYER:PLAYER]추신수[/PLAYER:PLAYER] [STAT:STAT]홈런[/STAT:STAT] [STATEMENT:STATEMENT]몇개야[/STATEMENT:STATEMENT]?"
-      ],
       "hitter_stat": [
-        "[HITTER:HITTER]추신수[/HITTER:HITTER] [HITTER_STAT:HITTER_STAT]타수[/HITTER_STAT:HITTER_STAT] 알려줘"
+        "[HITTER:HITTER]추신수[/HITTER:HITTER] [HITTER_STAT:HITTER_STAT]안타[/HITTER_STAT:HITTER_STAT] [STATEMENT:STATEMENT]몇개야[/STATEMENT:STATEMENT]"
       ],
       "ask_SU": [
         "셋업맨이 뭐야?"
@@ -76,7 +73,7 @@
         "[PLAYER:PLAYER]추신수[/PLAYER:PLAYER] 출장횟수 알려줘"
       ],
       "pitcher_stat": [
-        "[PITCHER:PITCHER]류현진[/PITCHER:PITCHER] [PITCHER_STAT:PITCHER_STAT]평균자책점[/PITCHER_STAT:PITCHER_STAT] 알려줘"
+        "[PITCHER:PITCHER]류현진[/PITCHER:PITCHER] [PITCHER_STAT:PITCHER_STAT]투구수[/PITCHER_STAT:PITCHER_STAT] [STATEMENT:STATEMENT]몇개야[/STATEMENT:STATEMENT]"
       ],
       "ask_FIP": [
         "FIP이 무엇을 의미해",
@@ -137,6 +134,7 @@
         " 알려줄래": [],
         " 있어": [],
         " 언제야": [],
+        "몇개야": [],
         " 말해줘": [],
         " 없어": [],
         "알려줘": [],
